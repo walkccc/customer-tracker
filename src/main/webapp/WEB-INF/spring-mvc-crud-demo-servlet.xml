@@ -22,7 +22,7 @@
 
     <!-- Define Spring MVC view resolver -->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-        <property name="prefix" value="/WEB-INF/view/"/>
+        <property name="prefix" value="/view/"/>
         <property name="suffix" value=".jsp"/>
     </bean>
 
