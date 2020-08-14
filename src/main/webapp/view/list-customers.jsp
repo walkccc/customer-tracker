@@ -3,6 +3,7 @@
 <html>
 <head>
   <title>List Customers</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css">
 </head>
 <body>
 <div id="wrapper">
